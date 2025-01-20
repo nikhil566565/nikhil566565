@@ -53,6 +53,17 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+<div style="color:#90eebf;"> 
+  <h3>SKILLS</h3>
+    🚀 Proficient in <strong>Java Data Structure and Algorithm</strong>
+    <strong>🧠 Problem-Solving </strong>
+    <strong>🤝 Teamwork and Collaboration </strong>
+    <strong>🐍 Python Programming </strong>
+</div>
+
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 
 <div align="center"><h2>Thank you for visiting my profile! 😊</h2></div>
