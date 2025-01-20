@@ -1,6 +1,6 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+My+Profile++%F0%9F%9A%80.;Hey+There%2C+%F0%9F%91%8B+I+am+Nikhil+Kumawat+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB." alt="Typing SVG" /></a></h1>
 
-<img src="https://img.freepik.com/premium-vector/design-illustration-working-home-using-laptop-night_728139-180.jpg?ga=GA1.1.661734533.1737373949&semt=ais_hybrid" alt="My Image Description" width="1920" height="200"/>
+<img src="https://img.freepik.com/free-vector/workspace-with-robot-working-computer-keyboard-top-view_107791-3428.jpg?t=st=1737376084~exp=1737379684~hmac=71466db3db89f020cac97d0cfa9f2778b06711ed31a3133528b1034920ff3059&w=1380" alt="My Image Description" width="1920" height="200"/>
 
 <!-- 
 **nikhil566565/nikhil566565** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
