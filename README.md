@@ -5,11 +5,11 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
-<h3 align="center" style="color:#90eebf;">🧑‍💻 Developer| 🌏 India | ✨ Lover of Cute Designs</h3>
+<h3 align="center" style="color:#90eebf;">🧠 Problem Sloving | 🧑‍💻 Developer | 🌏 India | ✨ Lover of Cute Designs</h3>
 
 <div align="center" style="color:#90eebf;">
- 
-  
+
+
 ✨ Let's build <strong>creative projects</strong> together!<br>
   
 💻 I’m a <strong> Developer </strong> passionate about crafting beautiful web applications using the <strong>Android Studio</strong><br>
