@@ -55,10 +55,10 @@
 
 <div style="color:#90eebf;"> 
   <h3>SKILLS</h3>
-    🚀 Proficient in <strong>Java Data Structure and Algorithm</strong>
-    <strong>🧠 Problem-Solving </strong>
-    <strong>🤝 Teamwork and Collaboration </strong>
-    <strong>🐍 Python Programming </strong>
+    🚀 Proficient in <strong>Java Data Structure and Algorithm</strong><br>
+    <strong>🧠 Problem-Solving </strong><br>
+    <strong>🤝 Teamwork and Collaboration </strong><br>
+    <strong>🐍 Python Programming </strong><br>
 </div>
 
 
