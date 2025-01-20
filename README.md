@@ -2,6 +2,10 @@
 
 <img src="https://img.freepik.com/free-vector/workspace-with-robot-working-computer-keyboard-top-view_107791-3428.jpg?t=st=1737376084~exp=1737379684~hmac=71466db3db89f020cac97d0cfa9f2778b06711ed31a3133528b1034920ff3059&w=1380" alt="My Image Description" width="1920"/>
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
+<h3 align="center" style="color:#90eebf;">💬 Ask me about **DSA**, **Java**, **Android Studio**, and **Spring Boot**.| 🌏 India | ✨ Lover of Cute Designs</h3>
 <!-- 
 **nikhil566565/nikhil566565** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
