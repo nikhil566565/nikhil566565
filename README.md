@@ -16,8 +16,12 @@
 
 📫 Reach me at : <strong>nikhilkumawat7689@gmail.com</strong>
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 </div>
 
+<img src="https://img.freepik.com/free-photo/anime-style-portrait-young-student-attending-school_23-2151125487.jpg?t=st=1737377360~exp=1737380960~hmac=3c1808863b239537c3a2ad81274f4c83c826405c9c400ec4703beafe931459f8&w=1380" width="1920"/>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <!-- 
 **nikhil566565/nikhil566565** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
