@@ -2,6 +2,9 @@
 
 <img src="https://img.freepik.com/free-vector/workspace-with-robot-working-computer-keyboard-top-view_107791-3428.jpg?t=st=1737376084~exp=1737379684~hmac=71466db3db89f020cac97d0cfa9f2778b06711ed31a3133528b1034920ff3059&w=1380" alt="My Image Description" width="1920"/>
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
 <h3 align="center" style="color:#90eebf;">🧠 Problem Sloving | 🧑‍💻 Developer | 🌏 India | ✨ Lover of Cute Designs</h3>
 
 <div align="center" style="color:#90eebf;">
@@ -15,8 +18,6 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 </div>
-
-<img src="https://img.freepik.com/free-photo/anime-style-portrait-young-student-attending-school_23-2151125487.jpg?t=st=1737377360~exp=1737380960~hmac=3c1808863b239537c3a2ad81274f4c83c826405c9c400ec4703beafe931459f8&w=1380" width="1920"/>
 
 <div align="center">
     <img alt="Static Badge" src="https://img.shields.io/badge/Data%20Stucutre%20and%20Algorithm-brightgreen">
