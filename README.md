@@ -57,6 +57,7 @@
     <strong>🧠 Problem-Solving </strong><br>
     <strong>🤝 Teamwork and Collaboration </strong><br>
     <strong>🐍 Python Programming </strong><br>
+    <strong>🐍 Java Programming </strong><br>
 </div>
 
 
